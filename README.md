@@ -2,7 +2,7 @@
 
 # containerIP
 How to provide the IP of the container of VPN TRANMISSION.
-like [url=https://github.com/haugene/docker-transmission-openvpn][/url]
+like https://github.com/haugene/docker-transmission-openvpn
 
 # exemple
 Your container named vpntransmission provide an IP unknown
